@@ -42,6 +42,9 @@ python update_all_indicators_to_latest.py
 
 # Show field analysis and multi-field indicators
 python main.py fields
+
+# Generate monthly net value Excel report
+python generate_report.py
 ```
 
 ### Database Operations
